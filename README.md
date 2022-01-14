@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AWS, Terraform, Bash , Python
-- 🌱 I’m currently learning Go, Kubernetes
+- 🌱 I’m currently learning Go, Kubernetes, Flutter
 - 👯 I’m looking to collaborate on cloud native projects aimed at solving great problems
 
 - 💬 Ask me about AWS and how we can change the world with cloud
