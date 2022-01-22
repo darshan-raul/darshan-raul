@@ -6,7 +6,7 @@
 
 - 💬 Ask me about AWS and how we can change the world with cloud
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
-
+- 📓 I take my notes here: https://dar-raul.gitbook.io/guides/
 
 
 <!--
