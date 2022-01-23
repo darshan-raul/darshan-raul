@@ -7,7 +7,7 @@
 - 💬 Ask me about AWS and how we can change the world with cloud
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
 - 📓 I take my notes here: https://dar-raul.gitbook.io/guides/
-
+- 🐦 I tweet at : https://twitter.com/280chardevops
 
 <!--
 **darshan-raul/darshan-raul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
