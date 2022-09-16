@@ -2,6 +2,11 @@
 
 [![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-raul)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-raul&hide=CSS,SCSS,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 🔭 I’m currently working on AWS, Terraform, Bash , Python
 - 🌱 I’m currently learning Cloud Native Ecosystem, Kubernetes, Go, React, Flutter
 - 👯 I’m looking to collaborate on cloud native projects aimed at solving great problems
