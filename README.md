@@ -10,8 +10,8 @@
 
 -->
 
-- 🔭 I’m currently working on AWS, Terraform, Bash , Python
-- 🌱 I’m currently learning Cloud Native Ecosystem, Kubernetes, Go, React, Flutter
+- 🔭 I’m currently working on AWS, Terraform, Golang, Python,bash,Ansible
+- 🌱 I’m currently learning Cloud Native Ecosystem, Kubernetes, Go
 - 👯 I’m looking to collaborate on cloud native projects aimed at solving great problems
 
 - 💬 Ask me about AWS and how we can change the world with cloud
