@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
+
 [![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-raul)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 
