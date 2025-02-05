@@ -16,7 +16,7 @@
 
 - 💬 Ask me about AWS and how we can change the world with cloud
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
-- 📓 I take my notes here: https://darshan-raul.gitbook.io/cloudnativeguide
+- 📓 I take my notes here: https://docs.darshanraul.cloud
 - 🐦 I tweet at : https://twitter.com/280chardevops
 
 <!--
