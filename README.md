@@ -10,11 +10,7 @@
 
 
 
-- 🔭 I’m currently working on AWS, Terraform, Golang, Python,bash,Ansible
-- 🌱 I’m currently learning Cloud Native Ecosystem, Kubernetes, Go
-- 👯 I’m looking to collaborate on cloud native projects aimed at solving great problems
-
-- 💬 Ask me about AWS and how we can change the world with cloud
+- 🔭 I’m currently working on AWS, Kubernetes, Terraform, Golang, Python,bash,Ansible
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
 - 📓 I take my notes here: https://notes.darshanraul.me
 - 🐦 I tweet at : https://twitter.com/280chardevops
