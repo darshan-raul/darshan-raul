@@ -6,9 +6,6 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-raul&hide=CSS,SCSS,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 - 🔭 I’m currently working on AWS, Kubernetes, Terraform, Golang, Python,bash,Ansible
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
