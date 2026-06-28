@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on AWS, Kubernetes, Terraform, Golang, Python,bash,Ansible
 - 📫 How to reach me: https://www.linkedin.com/in/darshanraul/
 - 📓 I take my notes here: https://notes.darshanraul.me
-- 🐦 I tweet at : https://twitter.com/280chardevops
+- 🐦 I tweet at : https://x.com/280chardevops
 
 <!--
 **darshan-raul/darshan-raul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
