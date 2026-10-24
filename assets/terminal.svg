@@ -31,7 +31,7 @@
   <text x="68" y="166" class="mono body text">Darshan Raul</text>
   <text x="68" y="198" class="mono small dim">Cloud Architect | AWS | Kubernetes | DevOps</text>
 
-  <text x="68" y="250" class="mono body prompt">$ cat focus.txt</text>
+  <text x="68" y="250" class="mono body prompt">$ cat stack.txt</text>
   <text x="68" y="286" class="mono body cyan">AWS · Kubernetes · Terraform · Linux</text>
   <text x="68" y="320" class="mono body purple">Platform Engineering · Observability · Security</text>
   <text x="68" y="354" class="mono body yellow">AI × Infrastructure</text>
