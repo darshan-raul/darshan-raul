@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 290" width="360" height="290">
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .title { font-size: 28px; font-weight: 700; fill: #1f2328; }
+    .subtitle { font-size: 17px; fill: #0969da; }
+    .small { font-size: 17px; }
+    .dim { fill: #59636e; }
+    .prompt { fill: #1a7f37; }
+  </style>
+  <rect x="3" y="3" rx="16" width="354" height="284" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="3" y="3" rx="16" width="354" height="43" fill="#f6f8fa"/>
+  <rect x="3" y="30" width="354" height="16" fill="#f6f8fa"/>
+  <circle cx="27" cy="24" r="5.5" fill="#ff5f56"/>
+  <circle cx="46" cy="24" r="5.5" fill="#ffbd2e"/>
+  <circle cx="65" cy="24" r="5.5" fill="#27c93f"/>
+  <text x="28" y="91" class="mono title">~/apollo11</text>
+  <text x="28" y="122" class="mono subtitle">kubernetes, in 13 phases</text>
+  <text x="28" y="154" class="mono small prompt">$ tree -L 1</text>
+  <text x="34" y="182" class="mono small dim">├── 6 microservices</text>
+  <text x="34" y="210" class="mono small dim">├── postgres + redis</text>
+  <text x="34" y="238" class="mono small dim">├── break · recover</text>
+  <text x="34" y="266" class="mono small dim">└── observe · explain</text>
+</svg>

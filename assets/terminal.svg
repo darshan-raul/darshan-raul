@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+      .small { font-size: 20px; }
+      .body { font-size: 23px; }
+      .title { font-size: 20px; }
+      .dim { fill: #8b949e; }
+      .text { fill: #c9d1d9; }
+      .prompt { fill: #7ee787; font-weight: 700; }
+      .cyan { fill: #79c0ff; }
+      .purple { fill: #d2a8ff; }
+      .yellow { fill: #e3b341; }
+    </style>
+  </defs>
+
+  <rect x="30" y="30" rx="18" ry="18" width="1140" height="500" fill="#0d1117" stroke="#30363d" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="30" y="30" rx="18" ry="18" width="1140" height="58" fill="#161b22"/>
+  <rect x="30" y="70" width="1140" height="18" fill="#161b22"/>
+
+  <circle cx="65" cy="59" r="8" fill="#ff5f56"/>
+  <circle cx="91" cy="59" r="8" fill="#ffbd2e"/>
+  <circle cx="117" cy="59" r="8" fill="#27c93f"/>
+
+  <text x="600" y="66" text-anchor="middle" class="mono title dim">darshan@cloud — ~/github</text>
+
+  <text x="68" y="130" class="mono body prompt">$ whoami</text>
+  <text x="68" y="166" class="mono body text">Darshan Raul</text>
+  <text x="68" y="198" class="mono small dim">Cloud Architect | AWS | Kubernetes | DevOps</text>
+
+  <text x="68" y="250" class="mono body prompt">$ cat focus.txt</text>
+  <text x="68" y="286" class="mono body cyan">AWS · Kubernetes · Terraform · Linux</text>
+  <text x="68" y="320" class="mono body purple">Platform Engineering · Observability · Security</text>
+  <text x="68" y="354" class="mono body yellow">AI × Infrastructure</text>
+
+  <text x="68" y="406" class="mono body prompt">$ ./status</text>
+  <text x="68" y="442" class="mono body text">building things I probably could have bought</text>
+
+  <text x="68" y="492" class="mono body prompt">darshan@cloud:~$</text>
+  <rect x="275" y="471" width="15" height="25" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/>
+  </rect>
+</svg>
